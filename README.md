@@ -9,7 +9,7 @@ Estudando Java, HTML, CSS e JavaScript e o básico de Python.
         width="44%"
         height=200
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=XandecoPG&custom_title=Estatisticas+do+GitHub&show_icons=true">
+        src="https://github-readme-stats.vercel.app/api?username=XandecoPG&custom_title=Estatisticas+do+GitHub&show_icons=true&theme=dracula">
   </a>
   
 <a href="https://github.com/Lorenzo-Borges/convoychat">
@@ -17,7 +17,7 @@ Estudando Java, HTML, CSS e JavaScript e o básico de Python.
         width="46%"
         height=200
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=XandecoPG&custom_title=Linguagens&show_icons=true&layout=compact&langs_count=6">
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=XandecoPG&custom_title=Linguagens&show_icons=true&layout=compact&langs_count=6&theme=dracula">
 </a>
 </div>
 
