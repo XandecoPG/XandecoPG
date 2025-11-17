@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Olá, me chamo Alexandre Braz Franca e sou estudante de Engenharia de Software, cursando o segundo semestre, pela Uniasselvi. Sou fascinado por tecnologia e computação desde criança e na área de desenvolvimente foi onde me encontrei para poder realizar um sonho de poder trabalhar com a tecnologia.
+
+<a href="mailto:barazalexandreu@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alexandre-braz-fran%C3%A7a-04a131333/)
