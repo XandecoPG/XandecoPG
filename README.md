@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Olá, me chamo Alexandre Braz Franca e sou estudante de Engenharia de Software, cursando o segundo semestre, pela Uniasselvi. Sou fascinado por tecnologia e computação desde criança e na área de desenvolvimente foi onde me encontrei para poder realizar um sonho de poder trabalhar com a tecnologia.
-[<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](Link do Seu Perfil da DIO)
