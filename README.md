@@ -1,9 +1,8 @@
 ## Olá, me chamo Alexandre Braz Franca
 
-- 🔭 Hoje busco trabalhar com Back-end
-- 🌱 Estudando Java, HTML, CSS e JavaScript
-
-Olá, me chamo Alexandre Braz Franca e sou estudante de Engenharia de Software, cursando o segundo semestre, pela Uniasselvi. Sou fascinado por tecnologia e computação desde criança e na área de desenvolvimente foi onde me encontrei para poder realizar um sonho de poder trabalhar com a tecnologia.
+Olá, me chamo Alexandre Braz Franca e sou estudante de Engenharia de Software, cursando o segundo semestre, pela Uniasselvi. Sou fascinado por tecnologia e computação desde criança. Na área de desenvolvimente foi onde encontrei a oportunidade para poder realizar um sonho, de poder trabalhar com a tecnologia, onde vejo que a cada passo dado novos desafios surgem, junto com o aprendizado, que nunca para.
+Estudando Java, HTML, CSS e JavaScript e o básico de Python.
+<strong>Hoje busco trabalhar com Back-end!</strong>
 <div>
  <a href="https://github.com/Lorenzo-Borges/github-readme-stats">
     <img 
@@ -27,13 +26,12 @@ Olá, me chamo Alexandre Braz Franca e sou estudante de Engenharia de Software, 
 ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Xande-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Xande-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Xande-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Xande-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Xande-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Xande-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
 ##
